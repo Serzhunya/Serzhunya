@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Serzhunya
-- 🌱 Java, C, C++
+- 🌱 Java, C, C++, Go
 
 
 

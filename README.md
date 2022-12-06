@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Serzhunya
-- 🌱 Java, SQL
+👋 Hi, I’m @Serzhunya
+Programming Languages: Java, SQL
 
